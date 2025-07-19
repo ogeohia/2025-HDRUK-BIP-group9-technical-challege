@@ -34,7 +34,7 @@ group9-prostate-cancer-exploration/
 │
 ├── notebooks/           # Google Colab notebooks
 ├── data/                # Input data files (not pushed to GitHub)
-├── output/              # Charts, tables, or analysis results
+├── outputs/             # Visualizations, tables, or analysis results
 ├── docs/                # Reports, slides, or literature references
 ├── requirements.txt     # Python dependencies
 ├── CONTRIBUTORS.md      # Team members and roles
