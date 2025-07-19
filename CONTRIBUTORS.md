@@ -7,16 +7,16 @@ Each member will contribute to data analysis, visualisation, project coordinatio
 
 ## 🔹 Team Members
 
-| Name                   | GitHub       | Role / Focus Area                    |
-|------------------------|--------------|--------------------------------------|
-| **Becky Ahanon**       | @your-github | TBA                                  |
-| **Hayat Nurudeen**     | @your-github | Code Contributor                     |
-| **Juanita Agholor**    | @your-github | TBA                                  |
-| **Iyanuoluwa Soriyan** | @your-github | TBA                                  |
-| **Muhinyia Ndegwa**    | @your-github | TBA                                  |
-| **Vivian Sullyunna**   | @your-github | Group Lead                           |
-| **Denise Cabral**      | @your-github | TBA                                  |
-| **Oge Ohia**           | @ogeohia     | Project coordination,  Data analysis |
+| Name                   | GitHub                                     | Role / Focus Area                    |
+|------------------------|--------------------------------------------|--------------------------------------|
+| **Becky Ahanon**       | @github-prof                               | TBA                                  |
+| **Hayat Nurudeen**     | @github-prof                               | Code Contributor                     |
+| **Juanita Agholor**    | @github-prof                               | TBA                                  |
+| **Iyanuoluwa Soriyan** | @github-prof                               | TBA                                  |
+| **Muhinyia Ndegwa**    | @github-prof                               | TBA                                  |
+| **Vivian Sullyunna**   | @github-prof                               | Group Lead                           |
+| **Denise Cabral**      | @github-prof                               | TBA                                  |
+| **Oge Ohia**           | [@ogeohia](https://github.com/ogeohia)     | Project coordination,  Data analysis |
 
 ---
 
