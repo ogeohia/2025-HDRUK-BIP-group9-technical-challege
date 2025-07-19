@@ -31,11 +31,11 @@ This project investigates synthetic patient records of **prostate cancer** cases
 
 ```
 group9-prostate-cancer-exploration/
-│
 ├── notebooks/           # Google Colab notebooks
 ├── data/                # Input data files (not pushed to GitHub)
 ├── outputs/             # Visualizations, tables, or analysis results
 ├── docs/                # Reports, slides, or literature references
 ├── requirements.txt     # Python dependencies
 ├── CONTRIBUTORS.md      # Team members and roles
-└── README.md            # Project overview 
+├── README.md            # Project overview 
+└── .gitignore           
