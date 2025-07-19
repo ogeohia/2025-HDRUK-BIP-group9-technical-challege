@@ -1,0 +1,25 @@
+# Ignore data files
+data/
+*.csv
+*.xlsx
+*.json
+*.tsv
+
+# Ignore Colab/Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore outputs/logs
+output/
+*.log
+*.tmp
+
+# Ignore Python cache and environment folders
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Ignore environment variables or secrets
+.env
+.env.*
