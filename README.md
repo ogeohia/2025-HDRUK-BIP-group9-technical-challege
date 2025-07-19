@@ -20,10 +20,10 @@ This project investigates synthetic patient records of **prostate cancer** cases
 
 ## 🔧 Tools & Technologies
 
-- [Google Colab](https://colab.research.google.com/) – Cloud-based Python coding
-- [GitHub](https:[//github.com](https://github.com/ogeohia/HDRUK-group9-prostate-cancer-exploration) – Code version control and collaboration
+- [Google Colab](https://colab.research.google.com/drive/10no_5-aymrkJpLo_mtiKMki3hxeguVVp?usp=sharing) – Cloud-based Python coding
+- [GitHub](https://github.com/ogeohia/HDRUK-group9-prostate-cancer-exploration) – Code version control and collaboration
 - [Slack](https://group9hdruk.slack.com/) – Team communication
-- [Teams]([https://group9hdruk.slack.com](https://teams.microsoft.com/l/meetup-join/19:meeting_MWM1MzBkOTgtZTNkYi00NmFkLWJkYjUtZDg4NzFiZTRhNzc3@thread.v2/0?context=%7B%22Tid%22:%222b897507-ee8c-4575-830b-4f8267c3d307%22,%22Oid%22:%2269cac2af-f7ae-48fe-b493-0720125830a2%22%7D) – Weekly meetings and discussion
+- [Teams](https://teams.microsoft.com/l/meetup-join/19:meeting_MWM1MzBkOTgtZTNkYi00NmFkLWJkYjUtZDg4NzFiZTRhNzc3@thread.v2/0?context=%7B%22Tid%22:%222b897507-ee8c-4575-830b-4f8267c3d307%22,%22Oid%22:%2269cac2af-f7ae-48fe-b493-0720125830a2%22%7D) – Weekly meetings and discussion
 
 ---
 
