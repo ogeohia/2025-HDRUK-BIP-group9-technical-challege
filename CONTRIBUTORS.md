@@ -13,9 +13,8 @@ Each member will contribute to data analysis, visualisation, project coordinatio
 | **Hayat Nurudeen**     | @github-prof                               | Code Contributor                     |
 | **Juanita Agholor**    | @github-prof                               | TBA                                  |
 | **Iyanuoluwa Soriyan** | @github-prof                               | TBA                                  |
-| **Muhinyia Ndegwa**    | @github-prof                               | TBA                                  |
+| **Muhinyia Ndegwa**    | [@muhinyia](https://github.com/muhinyia)   | Code Contributor                     |
 | **Vivian Sullyunna**   | @github-prof                               | Group Lead                           |
-| **Denise Cabral**      | @github-prof                               | TBA                                  |
 | **Oge Ohia**           | [@ogeohia](https://github.com/ogeohia)     | Project coordination,  Data analysis |
 
 ---
