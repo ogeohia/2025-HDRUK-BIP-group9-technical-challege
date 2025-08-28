@@ -9,10 +9,6 @@ Each member will contribute to data analysis, visualisation, project coordinatio
 
 | Name                   | GitHub                                     | Role / Focus Area                    |
 |------------------------|--------------------------------------------|--------------------------------------|
-| **Becky Ahanon**       | @github-prof                               | TBA                                  |
-| **Hayat Nurudeen**     | @github-prof                               | Code Contributor                     |
-| **Juanita Agholor**    | @github-prof                               | TBA                                  |
-| **Iyanuoluwa Soriyan** | @github-prof                               | TBA                                  |
 | **Muhinyia Ndegwa**    | [@muhinyia](https://github.com/muhinyia)   | Code Contributor                     |
 | **Vivian Sullyunna**   | @github-prof                               | Group Lead                           |
 | **Oge Ohia**           | [@ogeohia](https://github.com/ogeohia)     | Project coordination,  Data analysis |
