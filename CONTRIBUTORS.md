@@ -7,11 +7,11 @@ Each member will contribute to data analysis, visualisation, project coordinatio
 
 ## 🔹 Team Members
 
-| Name                   | GitHub                                     | Role / Focus Area                    |
-|------------------------|--------------------------------------------|--------------------------------------|
-| **Muhinyia Ndegwa**    | [@muhinyia](https://github.com/muhinyia)   | Code Contributor                     |
-| **Vivian Sullyunna**   | @github-prof                               | Group Lead                           |
-| **Oge Ohia**           | [@ogeohia](https://github.com/ogeohia)     | Project coordination,  Data analysis |
+| Name                   | GitHub                                        | Role                                 |
+|------------------------|-----------------------------------------------|--------------------------------------|
+| **Muhinyia Ndegwa**    | [@muhinyia](https://github.com/muhinyia)      | Code Contributor                     |
+| **Vivian Sullyunna**   | [VivianS-27](https://github.com/VivianS-27)   | Project Cordinator                   |
+| **Oge Ohia**           | [@ogeohia](https://github.com/ogeohia)        | Code Contributor                     |
 
 ---
 
